@@ -1,0 +1,3 @@
+Module bs
+Init init_function
+Function VOID put(STRING)
